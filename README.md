@@ -1,4 +1,4 @@
-This is the first project for my data analysis career.
+This project is to analysis the video game sales before  2017
 
 The questions that needed to be answered for this project are
 
